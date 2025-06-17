@@ -20,7 +20,7 @@ This project is a playful and interactive webpage that displays animated hearts 
 To view the page, open the following URL in your browser:
 
 ```
-https://bactiger1508.github.io/bactimtim/
+https://bactiger1508.github.io/emP/
 ```
 
 ### Customizing the Message
@@ -28,7 +28,7 @@ https://bactiger1508.github.io/bactimtim/
 You can customize the message by adding URL parameters for the name and date. Use the following format:
 
 ```
-https://bactiger1508.github.io/bactimtim/?name=NAME&year=YYYY&month=MM&day=DD
+https://bactiger1508.github.io/emP/?name=NAME&year=YYYY&month=MM&day=DD
 ```
 
 - **name**: The name you want to display in the message.
@@ -38,10 +38,10 @@ https://bactiger1508.github.io/bactimtim/?name=NAME&year=YYYY&month=MM&day=DD
 
 ### Example
 
-To display the name "cậu" and the date August 03, 2004, use:
+To display the name "John" and the date August 03, 2004, use:
 
 ```
-https://bactiger1508.github.io/bactimtim/?name=cậu&year=2004&month=8&day=3
+https://bactiger1508.github.io/emP/?name=John&year=2004&month=8&day=3
 ```
 
 ## Code Reference
