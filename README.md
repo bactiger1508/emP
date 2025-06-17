@@ -58,10 +58,10 @@ The code for handling URL parameters is located in the `index.html` file:
         var results = regex.exec(location.search);
         return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
     }
-    var year = getUrlParameter('year') || 2004;
-    var month = getUrlParameter('month') || 8;
-    var day = getUrlParameter('day') || 3;
-    var userName = getUrlParameter('name') || 'cậu';
+    var year = getUrlParameter('year') || 2022;
+    var month = getUrlParameter('month') || 11;
+    var day = getUrlParameter('day') || 22;
+    var userName = getUrlParameter('name') || 'Phương';
     
     document.addEventListener("DOMContentLoaded", function() {
         console.log("User Name:", userName); 
